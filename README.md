@@ -61,6 +61,9 @@ https://drive.google.com/file/d/18RJzu35vyuMgpcAE590u1IaDvHY3-SWq/view?usp=shari
 Internship Details
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Internship Type: AICTE Virtual Internship - Edunet Foundation
+
 Sponsor: Shell
+
 Duration: June 2025 (1 month)
+
 Focus Area: Machine Learning in Environmental Monitoring
